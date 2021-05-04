@@ -1,6 +1,4 @@
-#Olá! 👋# Olá! 👋🏽
-
-
+# Olá! 👋🏽
 ## João M J Braga
  - ‍👤programmer
  -  ✝️ 📖 Cristão 💻📚 ❤
