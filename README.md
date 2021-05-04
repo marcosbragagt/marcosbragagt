@@ -1,9 +1,9 @@
-# **Olá 👋🏽**
+# **Olá 👋🏽 Bem-Vindo ao meu repositóries**
+
 # João M J Braga
-
-## *- Software
 ## - 🙍‍♂️programmer
-## ✝️ 📖 Cristão - Amente da Tecnologia da informação💻📚 ❤
-
-## **const** nome = 'Jesus' 
-## **console.log**( `${nome} nome sobre todo nome!`)
+ - ✝️ 📖 Cristão
+ - Amente da Tecnologia da informação💻📚 ❤ 
+ 
+ -  **const** nome = 'Jesus' 
+ -  **console.log**( `${nome} nome sobre todo nome!`)
