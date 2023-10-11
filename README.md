@@ -2,10 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="header.jpg" />
 &nbsp;&nbsp;&nbsp;
 
+### 👨‍💻💡 Amante da Programação e Tecnologia 👩‍💻🚀
 <p align="center">
-👨‍💻💡 Amante da Programação e Tecnologia 👩‍💻🚀 
-
-
+ 
 Entusiasta de tecnologia e programação. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Possuo conhecimento em HTML, CSS, Javascript, Typescript, React.js, Angula, Python e C Sharp.
 
 
