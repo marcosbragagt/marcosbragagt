@@ -1,11 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="header.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% src="./header.jpeg" />
 &nbsp;&nbsp;&nbsp;
 
 ### 👨‍💻💡 Amante da Programação e Tecnologia 👩‍💻🚀
 <p align="center">
  
-Entusiasta de tecnologia e programação. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Possuo conhecimento em HTML, CSS, Javascript, Typescript, React.js, Angula, Python e C Sharp.
+Entusiasta de tecnologia e programação. Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -31,15 +31,14 @@ Entusiasta de tecnologia e programação. Atualmente sou estudante de Análise e
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Angula.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Estudando neste momento:
 
 ![Angula.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
